@@ -1,0 +1,51 @@
+Date: 2020_5_19 GameSet# 7 BoardSize: 3
+'X': Andrew '0': T.J.
+Game# 1 Starts 'X'
+1 1 2 1 1 2 2 2 1 3 
+Win: Andrew
+Game# 2 Starts '0'
+2 1 1 1 2 2 1 2 3 3 1 3 
+Win: Andrew
+Game# 3 Starts 'X'
+3 3 1 1 3 1 2 1 3 2 
+Win: Andrew
+Game# 4 Starts '0'
+3 3 1 1 3 1 2 1 3 2 
+Win: T.J.
+Game# 5 Starts 'X'
+3 3 1 1 3 1 2 1 3 2 
+Win: Andrew
+Game# 6 Starts '0'
+3 3 1 1 3 1 2 1 3 2 
+Win: T.J.
+Game# 7 Starts 'X'
+3 3 1 1 3 1 2 1 3 2 
+Win: Andrew
+Game# 8 Starts '0'
+3 3 1 1 3 1 2 1 3 2 
+Win: T.J.
+Game# 9 Starts 'X'
+3 3 1 1 3 1 2 1 3 2 
+Win: Andrew
+Game# 10 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 11 Starts 'X'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 12 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 13 Starts 'X'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 14 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 15 Starts 'X'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+GameSet_Results:
+Andrew WON
+Andrew: W 6; D 6; L 3
+T.J.: W 3; D 6; L 6

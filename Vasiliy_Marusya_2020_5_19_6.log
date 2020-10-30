@@ -1,0 +1,111 @@
+Date: 2020_5_19 GameSet# 6 BoardSize: 3
+'X': Vasiliy '0': Marusya
+Game# 1 Starts 'X'
+3 3 1 1 3 1 2 1 3 2 
+Win: Vasiliy
+Game# 2 Starts '0'
+3 3 1 1 3 1 2 1 3 2 
+Win: Marusya
+Game# 3 Starts 'X'
+3 3 1 1 3 1 2 1 3 2 
+Win: Vasiliy
+Game# 4 Starts '0'
+3 3 1 1 3 1 2 1 3 2 
+Win: Marusya
+Game# 5 Starts 'X'
+3 3 1 1 3 1 2 1 3 2 
+Win: Vasiliy
+Game# 6 Starts '0'
+3 3 1 1 3 1 2 1 3 2 
+Win: Marusya
+Game# 7 Starts 'X'
+3 3 1 1 3 1 2 1 3 2 
+Win: Vasiliy
+Game# 8 Starts '0'
+3 3 1 1 3 1 2 1 3 2 
+Win: Marusya
+Game# 9 Starts 'X'
+3 3 1 1 3 1 2 1 3 2 
+Win: Vasiliy
+Game# 10 Starts '0'
+3 3 1 1 3 1 2 1 3 2 
+Win: Marusya
+Game# 11 Starts 'X'
+3 3 1 1 3 1 2 1 3 2 
+Win: Vasiliy
+Game# 12 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 13 Starts 'X'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 14 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 15 Starts 'X'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 16 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 17 Starts 'X'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 18 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 19 Starts 'X'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 20 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 21 Starts 'X'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 22 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 23 Starts 'X'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 24 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 25 Starts 'X'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 26 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 27 Starts 'X'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 28 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 29 Starts 'X'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 30 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 31 Starts 'X'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 32 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 33 Starts 'X'
+3 3 1 1 3 1 2 1 3 2 
+Win: Vasiliy
+Game# 34 Starts '0'
+3 3 1 1 3 1 2 1 3 2 
+Win: Marusya
+Game# 35 Starts 'X'
+3 3 1 1 3 1 2 1 3 2 
+Win: Vasiliy
+GameSet_Results:
+Vasiliy WON
+Vasiliy: W 8; D 21; L 6
+Marusya: W 6; D 21; L 8

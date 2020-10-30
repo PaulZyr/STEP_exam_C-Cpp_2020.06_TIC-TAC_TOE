@@ -1,0 +1,69 @@
+Date: 2020_5_19 GameSet# 2 BoardSize: 3
+'X': Petrovicn '0': Ivanych
+Game# 1 Starts 'X'
+1 1 2 1 1 2 2 2 1 3 
+Win: Petrovicn
+Game# 2 Starts '0'
+1 1 2 1 1 2 2 2 1 3 
+Win: Ivanych
+Game# 3 Starts 'X'
+1 1 2 1 1 2 2 2 1 3 
+Win: Petrovicn
+Game# 4 Starts '0'
+1 1 2 1 1 2 2 2 1 3 
+Win: Ivanych
+Game# 5 Starts 'X'
+1 1 2 1 1 2 2 2 1 3 
+Win: Petrovicn
+Game# 6 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 7 Starts 'X'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 8 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 9 Starts 'X'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 10 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 11 Starts 'X'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 12 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 13 Starts 'X'
+3 2 1 1 1 2 3 3 2 2 
+Win: Petrovicn
+Game# 14 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 15 Starts 'X'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 16 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 17 Starts 'X'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 18 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 19 Starts 'X'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 20 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 21 Starts 'X'
+3 2 1 1 1 2 3 3 2 2 
+Win: Petrovicn
+GameSet_Results:
+Petrovicn WON
+Petrovicn: W 5; D 14; L 2
+Ivanych: W 2; D 14; L 5

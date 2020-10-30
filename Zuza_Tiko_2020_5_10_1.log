@@ -1,0 +1,83 @@
+Date: 2020_5_10 GameSet# 1 BoardSize: 3
+'X': Zuza '0': Tiko
+Game# 1 Starts 'X'
+0 0 1 0 0 1 1 1 0 2 
+Win: Zuza
+Game# 2 Starts '0'
+0 1 0 0 1 1 1 1 2 0 2 2 
+Win: Zuza
+GameSet_Results:
+Zuza WON
+Zuza: W 2; D 0; L 0
+Tiko: W 0; D 0; L 2
+Game# 3 Starts 'X'
+2 2 2 1 0 0 0 1 1 1 
+Win: Zuza
+Game# 4 Starts '0'
+0 0 1 0 0 1 1 1 1 2 0 2 2 0 2 1 2 2 
+Draw
+Game# 5 Starts 'X'
+0 0 1 0 0 1 1 1 1 2 0 2 2 0 2 1 2 2 
+Draw
+Game# 6 Starts '0'
+0 0 1 0 0 1 1 1 1 2 0 2 2 0 2 1 2 2 
+Draw
+Game# 7 Starts 'X'
+0 0 1 0 0 1 1 1 1 2 0 2 2 0 2 1 2 2 
+Draw
+Game# 8 Starts '0'
+0 0 1 0 0 1 1 1 1 2 0 2 2 0 2 1 2 2 
+Draw
+Game# 9 Starts 'X'
+0 0 1 0 0 1 1 1 1 2 0 2 2 0 2 1 2 2 
+Draw
+Game# 10 Starts '0'
+0 0 1 0 0 1 1 1 1 2 0 2 2 0 2 1 2 2 
+Draw
+Game# 11 Starts 'X'
+0 0 1 0 0 1 1 1 1 2 0 2 2 0 2 1 2 2 
+Draw
+Game# 12 Starts '0'
+0 0 1 0 0 1 1 1 1 2 0 2 2 0 2 1 2 2 
+Draw
+Game# 13 Starts 'X'
+0 0 1 0 0 1 1 1 1 2 0 2 2 0 2 1 2 2 
+Draw
+Game# 14 Starts '0'
+0 0 1 0 0 1 1 1 1 2 0 2 2 0 2 1 2 2 
+Draw
+Game# 15 Starts 'X'
+0 0 0 1 1 2 0 1 2 1 1 1 1 0 1 0 2 0 
+Draw
+Game# 16 Starts '0'
+2 2 0 0 2 0 1 0 2 1 
+Win: Tiko
+Game# 17 Starts 'X'
+0 0 1 1 1 0 2 2 2 0 
+Win: Zuza
+Game# 18 Starts '0'
+2 1 0 0 0 1 2 2 1 1 
+Win: Tiko
+Game# 19 Starts 'X'
+1 2 0 0 0 2 1 1 2 2 
+Win: Zuza
+GameSet_Results:
+Zuza WON
+Zuza: W 5; D 12; L 2
+Tiko: W 2; D 12; L 5
+Game# 20 Starts '0'
+0 0 1 0 0 1 1 1 1 2 0 2 2 0 2 1 2 2 
+Draw
+Game# 21 Starts 'X'
+0 0 1 0 0 1 1 1 1 2 0 2 2 0 2 1 2 2 
+Draw
+Game# 22 Starts '0'
+0 0 1 0 0 1 1 1 1 2 0 2 2 0 2 1 2 2 
+Draw
+Game# 23 Starts 'X'
+0 0 1 0 0 1 1 1 1 2 0 2 2 0 2 1 2 2 
+Draw
+GameSet_Results:
+Zuza WON
+Zuza: W 5; D 16; L 2
+Tiko: W 2; D 16; L 5

@@ -1,0 +1,105 @@
+Date: 2020_5_19 GameSet# 4 BoardSize: 3
+'X': Player1 '0': Player2
+Game# 1 Starts 'X'
+1 1 1 2 1 3 2 1 2 2 3 1 3 3 
+Win: Player1
+Game# 2 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 3 Starts 'X'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 4 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 5 Starts 'X'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 6 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 7 Starts 'X'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 8 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 9 Starts 'X'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 10 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 11 Starts 'X'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 12 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 13 Starts 'X'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 14 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 15 Starts 'X'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 16 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 17 Starts 'X'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 18 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 19 Starts 'X'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 20 Starts '0'
+1 1 2 1 1 2 2 2 2 3 1 3 3 1 3 2 3 3 
+Draw
+Game# 21 Starts 'X'
+3 3 1 1 3 1 2 1 3 2 
+Win: Player1
+Game# 22 Starts '0'
+3 3 1 1 3 1 2 1 3 2 
+Win: Player2
+Game# 23 Starts 'X'
+3 3 1 1 3 1 2 1 3 2 
+Win: Player1
+Game# 24 Starts '0'
+3 3 1 1 3 1 2 1 3 2 
+Win: Player2
+Game# 25 Starts 'X'
+3 3 1 1 3 1 2 1 3 2 
+Win: Player1
+Game# 26 Starts '0'
+3 3 1 1 3 1 2 1 3 2 
+Win: Player2
+Game# 27 Starts 'X'
+3 3 1 1 3 1 2 1 3 2 
+Win: Player1
+Game# 28 Starts '0'
+3 3 1 1 3 1 2 1 3 2 
+Win: Player2
+Game# 29 Starts 'X'
+3 3 1 1 3 1 2 1 3 2 
+Win: Player1
+Game# 30 Starts '0'
+3 3 1 1 3 1 2 1 3 2 
+Win: Player2
+Game# 31 Starts 'X'
+3 3 1 1 3 1 2 1 3 2 
+Win: Player1
+Game# 32 Starts '0'
+3 3 1 1 3 1 2 1 3 2 
+Win: Player2
+Game# 33 Starts 'X'
+3 3 1 1 3 1 2 1 3 2 
+Win: Player1
+GameSet_Results:
+Player1 WON
+Player1: W 8; D 19; L 6
+Player2: W 6; D 19; L 8
